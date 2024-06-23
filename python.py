@@ -1,2 +1,3 @@
-x = 2
-print(type(x))
+x =int(4)
+y =int(4.8)
+print(type(y))
