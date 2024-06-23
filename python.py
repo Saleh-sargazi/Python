@@ -1,3 +1,7 @@
-x = 1
-y = 7
-print(x + y)
+x = 'im studnet'
+
+print(x)
+
+y = 19
+
+print(y)
