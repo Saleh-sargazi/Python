@@ -1,7 +1,8 @@
-x = 'im studnet'
-
-print(x)
-
-y = 19
-
-print(y)
+Name ='saleh'
+name = 'samyar'
+print(name)
+print('------------')
+print(Name)
+x = 3
+y = 2
+print(x + y)
