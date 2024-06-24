@@ -1,2 +1,2 @@
 x = 'hello, woord'
-print(x[:3])
+print(x[2:])
