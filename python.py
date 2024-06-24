@@ -1,2 +1,2 @@
-x = 'im saleh/ im from iclan'
-print(x)
+my_age = 'my age is 16'
+print(my_age)
