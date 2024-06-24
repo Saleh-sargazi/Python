@@ -1,1 +1,2 @@
-print('saleh sargazi'[6])
+x = 'hello, woord'
+print(x[:3])
