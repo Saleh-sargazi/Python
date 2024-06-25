@@ -1,2 +1,4 @@
-x = "saleh, sargazi"
-print(x[-3])
+name = "saleh"
+lastname = " sargazi"
+me = name + lastname
+print(me)
